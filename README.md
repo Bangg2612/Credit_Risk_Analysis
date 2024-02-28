@@ -1,1 +1,6 @@
-# Credit_Risk_Analysis
+# Dependency libraries:
+- pandas
+- scikit-learn
+- matplotlib
+- seasborn
+- Jupyter Notebook
