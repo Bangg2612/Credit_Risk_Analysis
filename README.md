@@ -1,5 +1,5 @@
 # Dependency libraries:
--numpy
+- numpy
 - pandas
 - scikit-learn
 - matplotlib
